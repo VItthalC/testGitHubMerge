@@ -1,2 +1,2 @@
 "this is first commit"
-fixing bug 3*2=6;
+fixing bug 3*2=6
